@@ -4,29 +4,34 @@
 
 ### User Requirements
 
-    + item 1
-    + item 2
+### Feedback
 
-    1. item 1
-    1. item 2
-    1. item 3
+1. Added to message as requested
+There are three sets of stakeholders: clients, users, developments.
 
-    ```html
-    <!DOCTYPE html>
-    <html>
-    <head>
-    ```
+#### Client Requirements
 
-    ```css
-    body { color: black }
-    ```
-    
-    We need to declare a variable `counter`(^1) to store ....
++ Professional, presenting good images at company
+#
 
-![Alt text](assets/img/360_F_225178320_DowPmFXHd4UOCVH0qzGFi51EVKMAKX4O.jpg)
 
-    [Scam] (https://www.scan.co.uk)
+#### Visitor Requirements
 
-:skull:
++ Colourful (complementary colour) [^needswork]
++ Images of phones
++ Loads quickly [^needswoork]
++ Easy to navigate [^needswork]
++ Propotion of the website
++ easy to comprend
++ easy to access for everyone
+[ ] Colourful!
 
-    (^1) this is a variable
+#### Developer Requirements
+
+ + Clean, well-commented source code
+ + All documentation in Markdown format
+ + others ....
+ + easy to understand
+ + easy to access anywhere 
+
+ [^needswork] these are not objective measurable. Try again
