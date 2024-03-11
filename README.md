@@ -4,6 +4,8 @@
 
 ### User Requirements
 
+
+
 ### Feedback
 
 1. Added to message as requested
@@ -32,6 +34,8 @@ There are three sets of stakeholders: clients, users, developments.
  + All documentation in Markdown format
  + others ....
  + easy to understand
- + easy to access anywhere 
+ + easy to access anywhere
+ + can be access from any device
+ + 
 
- [^needswork] these are not objective measurable. Try again
+ [^needswork] these are not objective measurable. Try again 
