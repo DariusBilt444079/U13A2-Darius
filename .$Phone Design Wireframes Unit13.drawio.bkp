@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-18T08:53:26.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="OOnSfw1nimhtRNe2uq4Y" version="22.0.2" type="device" pages="39">
+<mxfile host="Electron" modified="2024-04-18T08:22:03.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="deh-PWFKnMOvrjclIsPZ" version="22.0.2" type="device" pages="39">
   <diagram id="ThCmqCwUMP-E3O6j4Arb" name="Justification">
-    <mxGraphModel dx="592" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="0">
+    <mxGraphModel dx="608" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1310" y="260" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cbfDanDkRkTLoB6lwXPe-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;In the Different Design of the PC Layout in the page &quot;Deals&quot; the size of the pictures would be changed in to 260 px * 260 px.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="450" width="190" height="160" as="geometry" />
+          <mxGeometry x="1320" y="450" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="M45AcS9Ji44NzGYJ0fP9-1" value="&lt;font color=&quot;#030527&quot; face=&quot;Times New Roman&quot;&gt;The normal layout of smartphone sizes would be 150 px * 125 px and the different layout there would be&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="450" width="190" height="160" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="iNS96uyGqhK-0TbXUkvL-3" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;If done so then the person in charge of checking the website would be informed.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="640" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Rflm4kGS_Y7U7Kvu9PPS-1" value="&lt;font color=&quot;#030527&quot; face=&quot;Times New Roman&quot;&gt;If not said before and not made it visible to the person in charge of checking this file/the website itself, the layout would change depending by the device e. g if used a computer it would be a landscape and if used a smartphone if would be a portrait&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Rflm4kGS_Y7U7Kvu9PPS-1" value="&lt;font color=&quot;#030527&quot; face=&quot;Times New Roman&quot;&gt;If not said before and not made it visible to the person in charge of checking this file/the website itself, the layout would change depending by the device e. g if used a computer it would be a landscape and if used a smartphone if would be a portrait&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="640" width="190" height="160" as="geometry" />
         </mxCell>
       </root>
