@@ -4,9 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" href="styles.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
       <!-- This page would be used to show the contact information of the company that it would be made the company (homework company), the page would not be with rich details because it would be mostly a simple design with a simple coding that would be able to make the informations available and usable. -->
-  </head>
+
+      <script>
+        function myFunction() {
+            alert("Thank you " + document.getElementById("fname").value + ". Your form has been successfully submitted. We will get back to you as soon as possible.");
+        }
+    </script>
+
+    </head>
   <map name="example-map-1">
     <area
       shape="circle"
@@ -65,14 +72,104 @@
       </div>
     </div>
   </nav>
+    <div class="d-flex flex-column mb-3">
+    <a type="button" class="btn btn-primary btn-lg active" href="../Pages/Contact Info.html">Contact information</a>
+    </div>
   <body>
-    <h1>Hello, world!</h1>
+
+
+
+    <div class="row rounded container" style="text-align: center;">
+      <h1></h1>
+
+
+      <div class="rounded" style="width: auto">
+
+        <p class=""  style="text-align: center;" >Official Name Of The Company = ICUPhones</p>
+
+      </div>  
+  </div>
+
+  <div class="row rounded container" style="text-align: center;">
+    <h1></h1>
+
+
+    <div class="rounded" style="width: auto">
+
+      <p class=""  style="text-align: center;" >Email : hywaguwaheiubea@eyagwdi.co.mc</p>
+
+    </div>  
+</div>
+
+
+<div class="row rounded container" style="text-align: center;">
+  <h1></h1>
+
+
+  <div class="rounded" style="width: auto">
+
+    <p class=""  style="text-align: center;" >Telephone Number : 07953186643</p>
+
+  </div>  
+</div>
+
+
+<style>
+  p { 
+    font-size: 24px;
+  }
+</style>
+  
+
+<div class="row rounded" style="text-align: center;">
+  <h1></h1>
+
+
+  <div class="rounded" style="width: auto;">
+
+    <a href="../Pages/form.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="text-align: center;">Form</a>
+
+  </div>  
+</div>
+
+</div>
+
+
+
+<!--
+      <form onsubmit="myFunction()">
+        <label for="fname"> First Name: </label>
+        <input type="text" id="fname" name="frame" required>
+
+
+
+
+
+    <div class="mb-3">
+      <label for="exampleFormControlInput1" class="form-label">Email address</label>
+      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+    </div>
+    <div class="mb-3">
+      <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+    </div>
+
+    <input type="submit">
+    </form>
+
+  -->
+
+
+
+
+
+
+
 
 
   </body>
 
-
-
+<!-- Java Script for assignment -->
 
   <body onload="startTime()">
   
@@ -91,7 +188,7 @@
   }
   
   function checkTime(i) {
-    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    if (i < 10) {i = "0" + i};
     return i;
   }
   </script>
