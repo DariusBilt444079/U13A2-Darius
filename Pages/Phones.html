@@ -66,7 +66,50 @@
   </nav>
   <body>
 
-    <div class="container">
+
+     <!---->
+     <div class="d-flex flex-column mb-3">
+      <a type="button" class="btn btn-primary btn-lg active" href="../Pages/Phones.html">Phones</a>
+     
+    <!---->
+      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-center"><img src="../assets/img/Deal one phone.webp" class="img-thumbnail" alt="..."></div>
+      <div class="d-flex justify-content-center"><img src="../assets/img/download.jpg" class="img-thumbnail" alt="..."></div>
+      <div class="d-flex justify-content-center"><img src="../assets/img/iphone-13-pink-select-2021.png" class="img-thumbnail" alt="..."></div>
+      <div class="d-flex justify-content-center"><img src="../assets/img/iphonecrop.jpg" class="img-thumbnail" alt="..."></div>
+      </div>
+     
+   
+      <div class="d-flex justify-content-between">
+        <div class="border"><a href="https://www.o2.co.uk/shop/apple/iphone-15-pro-max?setTTSelectedStack=360&device-type=packages">iPhone 15 Pro Max, £1,199</a></div>
+        <div class="border"><a href="https://www.very.co.uk/apple-iphone-14-128gb--nbspmidnight/1600802913.prd">iPhone 14, 128Gb - Midnight</a></div>
+        <div class="border"><a href="https://www.apple.com/uk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-pink">iPhone 13 512 GB, £899 </a></div>
+        <div class="border"><a href="https://www.very.co.uk/apple-iphone-15-pro-128gb--nbspblack-titanium/1600930513.prd">Apple iPhone 15 Pro-128 GB-Blue Titanium</a></div>
+        </div>
+
+
+        <div class="d-flex flex-column mb-3">
+
+         
+        <!---->
+          <div class="d-flex justify-content-between">
+          <div class="d-flex justify-content-center"><img src="../assets/img/Deal one phone.webp" class="img-thumbnail" alt="..."></div>
+          <div class="d-flex justify-content-center"><img src="../assets/img/download.jpg" class="img-thumbnail" alt="..."></div>
+          <div class="d-flex justify-content-center"><img src="../assets/img/iphone-13-pink-select-2021.png" class="img-thumbnail" alt="..."></div>
+          <div class="d-flex justify-content-center"><img src="../assets/img/iphonecrop.jpg" class="img-thumbnail" alt="..."></div>
+          </div>
+         
+       
+          <div class="d-flex justify-content-between">
+            <div class="border"><a href="https://www.o2.co.uk/shop/apple/iphone-15-pro-max?setTTSelectedStack=360&device-type=packages">iPhone 15 Pro Max, £1,199</a></div>
+            <div class="border"><a href="https://www.very.co.uk/apple-iphone-14-128gb--nbspmidnight/1600802913.prd">iPhone 14, 128Gb - Midnight</a></div>
+            <div class="border"><a href="https://www.apple.com/uk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-pink">iPhone 13 512 GB, £899 </a></div>
+            <div class="border"><a href="https://www.very.co.uk/apple-iphone-15-pro-128gb--nbspblack-titanium/1600930513.prd">Apple iPhone 15 Pro-128GB-Blue Titanium</a></div>
+            </div>
+
+
+
+<!--    <div class="container">
       <h1></h1>
     <div class="row">
     
@@ -79,8 +122,41 @@
     </div>  
     </div>
     </form>
-    </div> 
-    <h1>Hello, world!</h1>
+    </div>
+  -->
+
+
+
+
+
+
+</body>
+
+
+
+
+<body onload="startTime()">
+
+<div id="txt"></div>
+
+<script>
+function startTime() {
+  const today = new Date();
+  let h = today.getHours();
+  let m = today.getMinutes();
+  let s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+  setTimeout(startTime, 1000);
+}
+
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+}
+</script>
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>
