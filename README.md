@@ -24,7 +24,7 @@ There are three sets of stakeholders: clients, users, developments.
 + Images of phones
 + Loads quickly [^needswoork]
 + Easy to navigate [^needswork]
-+ Propotion of the website
++ Proportion of the website
 + easy to understand
 + easy to access for everyone
 
