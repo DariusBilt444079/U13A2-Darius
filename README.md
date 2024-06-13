@@ -32,7 +32,9 @@
  + can be access from any device
  + 
 
+### Design WireFrames 
 
+The folder called wireframe pdf, if clicked on github, would give you access to a pdf about the wireframes made in assignment 2. Do not use the .drawio wireframes because it may not work.
 
 ### Unit 13 Assign 4
 
