@@ -40,9 +40,9 @@ There are three sets of stakeholders: clients, users, developments.
 
 
 
- ### Testing 
+ ### Design 
 
-### Design WireFrames 
+## WireFrames 
 
 + The folder called wireframe pdf, if clicked on github, would give you access to a pdf about the wireframes made in assignment 2. Do not use the .drawio wireframes because it may not work.
 + If needed the justification design of the wire frames then check the wireframe pdf made before and on pages 1 to 3/4 (page 4 is just a one box that says some colours that may be used in the website).
