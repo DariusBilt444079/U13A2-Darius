@@ -40,11 +40,11 @@ There are three sets of stakeholders: clients, users, developments.
 
 ### Testing
 
-| Name   | Comment                                                                 |
-|:-------|:------------------------------------------------------------------------|
-| Alice  | Always involved in various communications                               |
-| Bob    | A good guy, who likes to communicate with Alice                         |
-| Malroy | Not so nice guy. Tries to mess with the communication of Alice and Bob. |
+|Testing          | Does the Website Work on the Web Browsers?                              | 
+|:----------------|:------------------------------------------------------------------------|
+| Microsoft Edge  | On Microsoft Edge the Website has no problem                         |
+| Google Chrome   | On Google Chrome the website has no problem.                        |
+| Firefox         | Unable to fully test the website on FireFox because of the College Blocker. |
 
  ### Design 
 
