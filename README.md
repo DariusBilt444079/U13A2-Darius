@@ -35,6 +35,8 @@
 ### Design WireFrames 
 
 The folder called wireframe pdf, if clicked on github, would give you access to a pdf about the wireframes made in assignment 2. Do not use the .drawio wireframes because it may not work.
+If needed the justification design of the wire frames then check the wireframe pdf made before and on pages 1 to 3/4 (page 4 is just a one box that says some colours that may be used in the website).
+The layout of the page in the pdf says at what device it is for (Landscape (horizontal)is for PC layout and Portrait (Vertical) layout is for smartphone).
 
 ### Unit 13 Assign 4
 
