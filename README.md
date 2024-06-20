@@ -41,7 +41,7 @@ There are three sets of stakeholders: clients, users, developments.
 
 
  ### Testing 
- 
+
 ### Design WireFrames 
 
 + The folder called wireframe pdf, if clicked on github, would give you access to a pdf about the wireframes made in assignment 2. Do not use the .drawio wireframes because it may not work.
@@ -65,8 +65,8 @@ The next page that I am going to talk about is the contact info page. The intial
 
 1. Client 1 (Glen) 
 
-Right? First and foremost, a website is kinda bland not a lot of colour and the navigation by sort of OK but slightly mess but I can get up. First off the homepage is OK but needs more sorting out. Like, for instance, some of the videos are not in the middle of the subheadings have different types of videos they when I go to different pages. I can see different types of phones byjt only one type of phone. But there are so many choices for this type of phones specially with cases charges and headphones. S that I don't have a mind but really good. The above terraces nicere simple but needs more work on it. The contact info is. 
-Alright, still planned. But needs more work. Nausea has a little time of set by oh forms. There is a phones I didnid1878 t know, but the problem is there is no await thereid1878 s yeah, itid1878 s nice and simple, but it needs more decorating. The Thai website even that is a good website.
+> Right? First and foremost, a website is kinda bland not a lot of colour and the navigation by sort of OK but slightly mess but I can get up. First off the homepage is OK but needs more sorting out. Like, for instance, some of the videos are not in the middle of the subheadings have different types of videos they when I go to different pages. I can see different types of phones byjt only one type of phone. But there are so many choices for this type of phones specially with cases charges and headphones. S that I don't have a mind but really good. The above terraces nicere simple but needs more work on it. The contact info is. 
+Alright, still planned. But needs more work. Nausea has a little time of set by oh forms. There is a phones I didnid1878 t know, but the problem is there is no await thereid1878 s yeah, itid1878 s nice and simple, but it needs more decorating. The Thai website even that is a good website. 
 
 With this feedback given by Glen I will make some change that also I think they should be as he said. One of the things that he said to change was the videos that were not in the middle of the page and I also agree with him because even if it a changed idea they should "go with the flow of the website" so I will change to put the videos in the middle of the pages. 
 
