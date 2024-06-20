@@ -32,6 +32,16 @@
  + can be access from any device
  + 
 
+1. Added to message as requested
+There are three sets of stakeholders: clients, users, developments.
+
+
+ [^needswork] these are not objective measurable. Try again 
+
+
+
+ ### Testing 
+ 
 ### Design WireFrames 
 
 + The folder called wireframe pdf, if clicked on github, would give you access to a pdf about the wireframes made in assignment 2. Do not use the .drawio wireframes because it may not work.
@@ -64,12 +74,3 @@ Another thing that Glen talked about was the tile. Glen said (I agree with him) 
 
 The last thing that glen talked about were the colors because in his opinion the design is too bland. I will change that into putting more colors into the website. 
 
-1. Added to message as requested
-There are three sets of stakeholders: clients, users, developments.
-
-
- [^needswork] these are not objective measurable. Try again 
-
-
-
- ### Testing 
