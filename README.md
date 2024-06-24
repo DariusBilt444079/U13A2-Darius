@@ -46,12 +46,12 @@ There are three sets of stakeholders: clients, users, developments.
 | Google Chrome   | The website loads.                              | The website has no problem with this web browser.|
 | Firefox         | The Website Loads.                              | The website has problem with this website because of college blocker. However the website works even with the college blocker.|
 
-|Testing          | How to test it                                               | What it is meant to do  |
-|:----------------|:------------------------------------------------------------ |:-----------------------|
-| Home Page Button  | Click on the buttons.                                      | Take the user to a different page
-| Links             | Click on the link to be taken to another page.             | Take the user to a different page/website
-| Home Page Videos  | Click on the center button it.                             | Start the video that the user clicked
-| Home Page Video Link | Click on the bottom left where it says Watch on Youtube | Take the user to youtube's video page
+|Testing          | How to test it                                               | What it is meant to do  | What it does |
+|:----------------|:------------------------------------------------------------ |:------------------------|:---------------|
+| Home Page Button  | Click on the buttons.                                      | Take the user to a different page.| The button takes the user to a different page on the website
+| Links             | Click on the link.             | Take the user to a different page/website.| The link takes the user to a different website that sells the product chosen by the user.
+| Home Page Videos  | Click on the center button or the anywhere in the video space.                             | Start the video that the user clicked.| The button in the center of the video or if the user clicked anywhere in the video space, the video would start play.
+| Home Page Video Link | Click on the bottom left where it says Watch on Youtube | Take the user to youtube's video page.| The "Watch on Youtube" on the video will take the user to youtube's video page if clicked.
 
  ### Design 
 
