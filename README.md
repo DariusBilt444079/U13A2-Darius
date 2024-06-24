@@ -46,6 +46,13 @@ There are three sets of stakeholders: clients, users, developments.
 | Google Chrome   | On Google Chrome the website has no problem.                        |
 | Firefox         | Unable to fully test the website on FireFox because of the College Blocker. |
 
+|Testing          | How to test it                                                            | 
+|:----------------|:------------------------------------------------------------------------- |
+| Home Page Button  | Click on the buttons to be taken to the corrisponsive page              |
+| Links             | Click on the link to be taken to a page where the product is being sold.|
+| Home Page Videos  | Click on the center button it will start the video . |
+| Home Page Video Link | Click on the bottom left where it says Watch on Youtube | 
+
  ### Design 
 
 ## WireFrames 
