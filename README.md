@@ -40,11 +40,11 @@ There are three sets of stakeholders: clients, users, developments.
 
 ### Testing
 
-|Testing          | Does the Website Work on the Web Browsers?                              | 
-|:----------------|:------------------------------------------------------------------------|
-| Microsoft Edge  | On Microsoft Edge the Website has no problem                         |
-| Google Chrome   | On Google Chrome the website has no problem.                        |
-| Firefox         | Unable to fully test the website on FireFox because of the College Blocker. |
+|Testing          | Does the Website load on different web browsers?| 
+|:----------------|:------------------------------------------------|
+| Microsoft Edge  | The website loads.|
+| Google Chrome   | The website loads.|
+| Firefox         | The Website Loads.|
 
 |Testing          | How to test it                                               | What it is meant to do  |
 |:----------------|:------------------------------------------------------------ |:-----------------------|
