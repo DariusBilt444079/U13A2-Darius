@@ -38,6 +38,10 @@ There are three sets of stakeholders: clients, users, developments.
 
  [^needswork] these are not objective measurable. Try again 
 
+ ### Assets
+
+ To see the assets list, look at the folder called "assets" and at the bottom of it should appear a file or word called "Assets List.docx" .
+
 ### Testing / Testing Plan
 
 |Testing          | Does the Website load on different web browsers?| Does the website have problems of any kind?|
