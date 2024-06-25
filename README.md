@@ -46,9 +46,9 @@ There are three sets of stakeholders: clients, users, developments.
 
 |Testing          | Does the Website load on different web browsers?| Does the website have problems of any kind?|
 |:----------------|:------------------------------------------------|:-------------------------------------------|
-| Microsoft Edge  | The website loads.                              | The website has no problem with this web browser.|
-| Google Chrome   | The website loads.                              | The website has no problem with this web browser.|
-| Firefox         | The Website Loads.                              | The website has problem with this website because of college blocker. However the website works even with the college blocker.|
+| Microsoft Edge Version 125.0.2535.67 (Official build) (64-bit) | The website loads.                              | The website has no problem with this web browser.|
+| Google Chrome  Version 126.0.6478.114 (Official Build) (64-bit) | The website loads.                              | The website has no problem with this web browser.|
+| Firefox  Version 127.0 (Official build) (64-bit)       | The Website Loads.                              | The website has problem with this website because of college blocker. However the website works even with the college blocker.|
 
 |Testing          | How to test it                                               | What it is meant to do  | What it does |
 |:----------------|:------------------------------------------------------------ |:------------------------|:---------------|
