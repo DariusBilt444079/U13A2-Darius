@@ -104,7 +104,7 @@ There are three sets of stakeholders: clients, users, developments.
 
  [^needswork] these are not objective measurable. Try again 
 
-# Requirements Explanation (If you want the short explanation, it would be below the long explanation)
+# Requirements Explanation (If you want the short explanation, it would be below the long explanation so skip this part)
 
 1. In the end the website that I created meets the user requirements that the course gave us, and this is because of multiple reasons, e.g. one of them can be the design which can be supported by multiple devices such as phone design and computer design, another one can be navigation because it has a nav bar which is used to navigate thought the page and with this the user/visitor can go from a page to the page that we wants. Another few features of the website that meets the user requirements are = it loads quick, it meets the purpose meaning that the website is about a company of phone and accessories, it is easy to understand, it is proportionate to the device design, it is very easy to understand, the design is simple and professional that meets and suits the purpose of the website.
 
